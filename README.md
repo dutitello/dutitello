@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Eduardo Titello 👋
+
+I used to be the child who slept with a drilling machine, the teenager who ~tried to create~ created a social network for me and my friends, but nowadays I'm a civil engineer, who is still passionate about the tech world and by knowing how everything arround me works. 
+
+Currently I'm sharing my time betwen my engineering PhD🎓, some structural projects🏗️, cooking🍕, and learning about tech💻. 
+
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-pagnussat-titello/?locale=en_US)
 
 <!--
 **dutitello/dutitello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
