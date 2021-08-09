@@ -1,6 +1,6 @@
 ## Hi, I'm Eduardo Titello 👋
 
-I used to be the child who slept with a drilling machine, the self-taught teenager who ~tried to~ created a social network for me and my friends, and now I'm a civil engineer, who is still passionate about the tech world and by knowing how everything around me works. 
+I used to be the child who slept with a drilling machine, the self-taught teenager who ~tried to~ created a social network for me and my friends, and now I'm a civil engineer, who is passionate about the tech world and by knowing how everything around me works. 
 
 I'm currently sharing my time between my engineering Ph.D., some structural projects, and learning about tech and science. 
 I'm also looking for a job position where I can use my self-taught ability, ingenious, curiosity, and other skills to contribute to great projects.
